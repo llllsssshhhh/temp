@@ -1,0 +1,28 @@
+body {
+    background-image: url(../10-1.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+}
+
+p {
+    width: 150px;
+    padding: 10px;
+    background-color: #0014ff;
+}
+
+a:link {
+    color: aqua
+}
+
+a:visited {
+    color: antiquewhite
+}
+
+a:hover {
+    color: black
+}
+
+a:active {
+    color: chartreuse
+}

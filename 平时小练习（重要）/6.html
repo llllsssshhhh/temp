@@ -1,0 +1,34 @@
+<html>
+	<head>
+		
+	</head>
+	<body>
+		<script>
+	function student(name,age) {
+
+    this.name = name;
+    this.age = age;
+
+    this.study = function() {
+        alert("studying");
+    };
+
+    this.eat = function() {
+        alert("eating");
+    }
+}
+</script>
+		<script>
+		var student1 = new student('Tom','19');
+
+ 		var student2 = new student('Jack','20');
+	var x = student1.name;  
+	var y = student1.age;
+
+	document.write(x);
+	document.write(y);
+
+	student1.study();     
+	</script>
+	</body>
+</html>

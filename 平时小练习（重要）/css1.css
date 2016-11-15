@@ -1,0 +1,19 @@
+li strong {
+    color: red;
+}
+
+#pig a {
+    color: #3bceb2
+}
+
+.divclass {
+    color: red;
+}
+
+[title] {
+    color: red;
+}
+
+[title=te] {
+    color: red;
+}

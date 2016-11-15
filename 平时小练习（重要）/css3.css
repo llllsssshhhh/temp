@@ -1,0 +1,21 @@
+#tb td,
+th {
+    border: 1px solid green;
+}
+
+#tb {
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+}
+
+#tb th {
+    text-align: center;
+    color: black;
+    background-color: lightseagreen;
+}
+
+#tb tr.tr2 td {
+    color: black;
+    background-color: #B2FF99;
+}

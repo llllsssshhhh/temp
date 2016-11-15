@@ -1,0 +1,156 @@
+.container {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    background-color: cornflowerblue;
+}
+
+.leading {
+    float: left;
+    margin-left: 200px;
+}
+
+li {
+    padding: 2px;
+    display: inline;
+}
+
+a:link,
+a {
+    color: snow;
+    text-align: center;
+    padding: 2px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.headimage {
+    float: right;
+}
+
+.headimage img {
+    width: 50px;
+    height: 50px;
+}
+
+.headform {
+    float: right;
+    margin-right: 50px;
+}
+
+.headform form {
+    float: right;
+    height: 26px;
+    margin-right: 50px;
+}
+
+form input {
+    height: 20px;
+    background-color: cadetblue;
+    width: 100px;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+
+.discribe {
+    background-color: burlywood;
+    clear: both;
+    width: 1000px;
+    height: 300px;
+}
+
+.discribe h1 {
+    text-align: left;
+    padding-top: 50px;
+}
+
+.mainimg {
+    background-color: chartreuse;
+    width: 1000px;
+    height: 500px;
+}
+
+.img1 {
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.img1 img {
+    width: 200px;
+    height: 220px;
+}
+
+.img1 p {
+    color: snow;
+    font-size: 20px;
+    text-align: center;
+}
+
+.img2 {
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.img2 img {
+    width: 250px;
+    height: 220px;
+}
+
+.img2 p {
+    color: snow;
+    font-size: 20px;
+    text-align: center;
+}
+
+.img3 {
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.img3 img {
+    width: 200px;
+    height: 220px;
+}
+
+.img3 p {
+    color: snow;
+    font-size: 20px;
+    text-align: center;
+}
+
+.img4 {
+    border: 2px solid lightgray;
+    float: left;
+    text-align: center;
+    margin: 10px 10px;
+}
+
+.img4 img {
+    width: 200px;
+    height: 220px;
+}
+
+.img4 p {
+    color: snow;
+    font-size: 20px;
+    text-align: center;
+}
+
+.foot {
+    clear: both;
+    text-align: center;
+    background-color: lightgray;
+    height: 100px;
+    padding: 20px;
+    font-size: 30px;
+    color: darkslategrey;
+}
